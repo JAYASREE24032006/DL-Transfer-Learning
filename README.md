@@ -238,4 +238,4 @@ predict_image(model, image_index=25, dataset=test_dataset)
 
 
 ## RESULT
-Include your result here
+Thus the Program for develop an image classification model that can accurately distinguish between 'defect' and 'notdefect' semiconductor chip images is executed successfully.
